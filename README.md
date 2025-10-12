@@ -105,16 +105,29 @@
 </div>
 
 📫 Let's Connect
-<p align="center">
-  <a href="https://linkedin.com/in/rohitns03"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:rohitselvan22@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://leetcode.com/Rohit_Nishanth"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/></a>
-</p>
 <div align="center">
+
+  <!-- Contact Badges -->
+  <a href="https://linkedin.com/in/rohitns03">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:rohitselvan22@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://leetcode.com/Rohit_Nishanth">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+
+  <br><br>
+
+  <!-- Profile Views Badge -->
   <img src="https://komarev.com/ghpvc/?username=RohitNishanth&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RohitNishanth&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy"/>
+
+  <br><br>
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=RohitNishanth&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" style="max-width:100%;"/>
+
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RohitNishanth&theme=tokyonight" />
+
