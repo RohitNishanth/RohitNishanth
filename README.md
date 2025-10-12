@@ -68,3 +68,7 @@ const developer = {
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitNishanth&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </div>
+🏆 LeetCode Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Rohit_Nishanth?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+</div>
