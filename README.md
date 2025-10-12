@@ -29,10 +29,7 @@
 ```
 </details>
 
-🔭 Currently working on: AI-Powered Full-Stack Applications
-🌱 Learning: Docker, AWS, OpenAI APIs, LangChain
-💬 Ask me about: React, Spring Boot, MySQL, AI Integration
-📫 Reach me: rohitselvan22@@gmail.com
+
 
 ### 🛠️ Tech Stack
 
