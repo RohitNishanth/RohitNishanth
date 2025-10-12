@@ -12,16 +12,22 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-const developer = {
-    name: "Rohit Nishanth",
-    role: "Software Engineer @ Galaxy Weblinks",
-    location: "TamilNadu, India",
-    currentFocus: ["Spring Boot Microservices", "AI Integration", "System Design"],
-    learning: ["Docker", "AWS", "RAG Systems"],
-    funFact: "300+ LeetCode problems solved ⚡"
-};
+<details>
+  <summary>Click to view my dev profile (JSON-style) 👇</summary>
+
+  ```js
+  const developer = {
+      name: "Rohit Nishanth",
+      role: "Software Engineer @ Galaxy Weblinks",
+      location: "Tamil Nadu, India",
+      currentFocus: ["Spring Boot Microservices", "AI Integration", "System Design"],
+      learning: ["Docker", "AWS", "RAG Systems"],
+      funFact: "300+ LeetCode problems solved ⚡"
+  };
+```
+</details>
 
 🔭 Currently working on: AI-Powered Full-Stack Applications
 🌱 Learning: Docker, AWS, OpenAI APIs, LangChain
