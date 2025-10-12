@@ -26,4 +26,18 @@ const developer = {
 🔭 Currently working on: AI-Powered Full-Stack Applications
 🌱 Learning: Docker, AWS, OpenAI APIs, LangChain
 💬 Ask me about: React, Spring Boot, MySQL, AI Integration
-📫 Reach me: your.email@gmail.com
+📫 Reach me: rohitselvan22@@gmail.com
+
+🛠️ Tech Stack
+Frontend:
+Show Image
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
+📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</div>
