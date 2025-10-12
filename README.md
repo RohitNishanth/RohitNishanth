@@ -79,16 +79,20 @@
   <br/>
   <br/>
 
-  ### 🏆 LeetCode Stats
-  <img src="https://leetcard.jacoblin.cool/Rohit_Nishanth?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
-
-  <br/>
-  <br/>
-
-  ### 📈 Activity Graph
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitNishanth&theme=tokyo-night&hide_border=true" width="100%"/>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>🏆 LeetCode Stats</h3>
+        <img src="https://leetcard.jacoblin.cool/Rohit_Nishanth?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
+      </td>
+      <td>
+        <h3>📈 Activity Graph</h3>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitNishanth&theme=tokyo-night&hide_border=true" width="400"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 📫 Let's Connect
 <p align="center">
