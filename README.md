@@ -72,3 +72,5 @@ const developer = {
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Rohit_Nishanth?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats"/>
 </div>
+📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitNishanth&theme=tokyo-night&hide_border=true" width="100%"/>
