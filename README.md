@@ -74,3 +74,22 @@ const developer = {
 </div>
 📈 Activity Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohitNishanth&theme=tokyo-night&hide_border=true" width="100%"/>
+
+📫 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/rohitns03"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:rohitselvan22@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://leetcode.com/Rohit_Nishanth"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/></a>
+</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RohitNishanth&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RohitNishanth&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy"/>
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RohitNishanth/RohitNishanth/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RohitNishanth/RohitNishanth/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RohitNishanth/RohitNishanth/output/github-contribution-grid-snake.svg">
+</picture>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RohitNishanth&theme=tokyonight" />
