@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+[Your+Name];Full-Stack+Engineer;React+%7C+Spring+Boot+%7C+AI+Integration;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Rohit Nishanth;Full-Stack+Engineer;React+%7C+Spring+Boot+%7C+AI+Integration;Building+Scalable+Systems" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Software Engineer | Building Intelligent Web Applications</h3>
@@ -88,3 +88,4 @@ const developer = {
   <img src="https://github-profile-trophy.vercel.app/?username=RohitNishanth&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy"/>
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=RohitNishanth&theme=tokyonight" />
