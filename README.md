@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 <details>
-  <summary>Click to view my dev profile (JSON-style) 👇</summary>
+  <summary>Click to view my dev profile 👇</summary>
 
   ```js
   const developer = {
