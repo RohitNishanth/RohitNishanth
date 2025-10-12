@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-```javascript
+
 const developer = {
     name: "Rohit Nishanth",
     role: "Software Engineer @ Galaxy Weblinks",
