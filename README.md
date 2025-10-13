@@ -102,9 +102,7 @@
 
   <br><br>
 
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=RohitNishanth&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophy" style="max-width:100%;"/>
-
+  
 </div>
 
 
